@@ -71,6 +71,12 @@
 
 
 /*Footer Styles*/
-
+footer{
+   color: white;
+   background-color: black;
+   padding-left: 5px;
+   padding-right: 5px;
+   text-align: center;
+}
 
 
